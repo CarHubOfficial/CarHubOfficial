@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CarHubOfficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# CarHub is here!
 
-<!---
-CarHubOfficial/CarHubOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, we are ROBLOX's greatest driving autofarm creator, @CarHubOfficial
+- 👀 We are interested in working on more autofarms for games to help you become a god at them!
+- 🌱 We have developers that are constantly learning more about: Lua, JavaScript, C# and HTML
+- 📫 Join our Discord Server: https://dsc.gg/CarHub
